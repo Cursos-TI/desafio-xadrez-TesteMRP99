@@ -4,8 +4,8 @@
 		int jogada = 1; // variavel par determinar o numero de movimentos de cada peça
 		
 		printf("		Bem Vindo ao Xadrez Virtual Estacio!\n");
-		printf("Mapa dos movimentos das pecas: Torre, Bispo e Rainha\n");
-		printf("\nEstes foram os movimentos da torre: \n");
+		printf("Mapa dos movimentos das peças: Torre, Bispo, Rainha e Cavalo\n");
+		printf("\nEstes foram os movimentos da Torre: \n");
 		
 			for (torre = 1; torre <= 5; torre++){ //looping para determinar a quantidade de jogadas da torre
 				printf("%d° Movimento: ", jogada);
