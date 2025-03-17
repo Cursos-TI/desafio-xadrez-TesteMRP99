@@ -1,6 +1,6 @@
 #include<stdio.h>
 	int main(){
-		int torre, bispo, rainha; //declaração de variavel para cada peça do xadrex
+		int torre, bispo, rainha; //declaração de variavel para cada peça do xadres
 		int jogada = 1; // variavel par determinar o numero de movimentos de cada peça
 		
 		printf("		Bem-Vindo ao Xadrez Virtual Estacio!\n");
